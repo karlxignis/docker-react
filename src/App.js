@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          There is no paradise for you to escape to. Go back to your battlefield.
+          There is no paradise for you to escape to.
         </p>
         <a
           className="App-link"
